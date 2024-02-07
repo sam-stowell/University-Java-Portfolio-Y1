@@ -1,0 +1,13 @@
+1. compare names - done
+2. report -
+3. Some employees are also responsible for quality control, besides covering cakes, they have an extra
+   responsibility to periodically inspect the cakes covered by other employees. Quality controllers have
+   the same wage rates and rules as a standard employee plus earn an additional 12% for being a
+   quality controller.
+   Complete your programme by adding the functionality to add one or more quality controller(s) to
+   the same team used in the previous programme.
+   Create a quality controller called Rabia who has covered 385 cakes, add them to the team and
+   display the table and statistics as used in the previous programme. Add an identifier (such as ‘QC’) to
+   denote the quality controller.
+   If developed correctly, this programme will demonstrate an outstanding understanding of the OO
+   principles covered in the module

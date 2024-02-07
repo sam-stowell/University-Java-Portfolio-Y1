@@ -1,0 +1,31 @@
+line 67 employee.java
+//            if (e1.getName() > this.getName()){
+//                return 1;
+//            }
+//            else if(e1.getName() < this.getName()) {
+//                return -1;
+//            }
+
+end of employee.java
+//    @Override
+//    public int compareTo(Employee e1) {
+//        if (e1.getName() > this.getName()) {
+//            return 1;
+//        } else if (e1.getName() < this.getName()) {
+//            return -1;
+//        } else {
+//            return 0;
+//        }
+//    }
+
+end of tablemain.java
+//        for(Employee e : t1.getEmployees()){
+//            if(e.getName().equals("Andrew")){
+//                e.update();
+//            }
+//        }
+
+employee.java
+    private int GoodCakesCovered;
+
+    private int BadCakesCovered;
